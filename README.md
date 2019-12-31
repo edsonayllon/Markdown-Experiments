@@ -26,3 +26,15 @@ Testing different forms of stylings in Github markdown files
 > ## Heading 2
 > ### Heading 3
 > **Bold** *Italic* ~~Strike~~
+
+## Comments
+
+```
+<!-- html comment -->
+
+[//]: # (Unused variable as a comment)
+```
+
+<!-- html comment -->
+
+[//]: # (Unused variable as a comment)
