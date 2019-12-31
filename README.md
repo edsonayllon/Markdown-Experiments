@@ -100,3 +100,8 @@ See https://github.com/badges/shields.
 
 ![version](https://img.shields.io/badge/version-1.2.3-blue)
 
+## Footnotes
+
+Inline text.<sup id="a1">[1](#f1)</sup>
+
+[<b id="f1">1.</b>](#a1) Footnote content here. 
