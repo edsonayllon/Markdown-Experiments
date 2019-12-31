@@ -1,7 +1,7 @@
 # Markdown-Experiments
 Testing different forms of stylings in Github markdown files
 
-## Passing information with variables
+## Link references
 
 ```markdown
 ![cat][id]
@@ -12,6 +12,22 @@ Testing different forms of stylings in Github markdown files
 ![cat][id]
 
 [id]: https://octodex.github.com/images/dojocat.jpg
+
+## Figure captions
+
+Workaround for now. 
+
+```
+![cat][id]
+<p align="center">
+  <b>Figure 1.</b> A cat
+</p>
+```
+
+![cat][id]
+<p align="center">
+  <b>Figure 1.</b> A cat
+</p>
 
 ## Mixed blockqoute styles
 
@@ -37,4 +53,7 @@ Testing different forms of stylings in Github markdown files
 
 <!-- html comment -->
 
-[//]: # (Unused variable as a comment)
+[//]: # (Unused link reference as a comment)
+
+
+  
