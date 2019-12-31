@@ -1,5 +1,26 @@
+---
+title: Markdown Experiments
+authors: 
+- Edson Ayllon
+category: Formatting
+---
+
 # Markdown-Experiments
+
 Testing different forms of stylings in Github markdown files
+
+## YAML frontmatter
+
+YAML-formatted metadata goes at the beginning of a document. Converts to a horizontal table
+
+```
+---
+title: Markdown Experiments
+authors: 
+- Edson Ayllon
+category: Formatting
+---
+```
 
 ## Link references
 
@@ -80,3 +101,11 @@ See https://github.com/badges/shields.
 ```
 
 ![version](https://img.shields.io/badge/version-1.2.3-blue)
+
+## Footnotes
+
+First Term
+: This is the definition of the first term.
+
+
+
