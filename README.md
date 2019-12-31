@@ -121,3 +121,13 @@ Inline text.<sup id="a1">[1](#f1)</sup>
 Inline text [[1]](#Footnotes).
 
 [1] Footnote content here. 
+
+## Latex Equations
+
+See [Online LaTeX Equation Editor](https://www.codecogs.com/latex/eqneditor.php).
+
+```
+![equation](https://latex.codecogs.com/gif.latex?F_n%20%3D%20F_%7Bn-1%7D%20&plus;%20F_%7Bn-2%7D)
+```
+
+![equation](https://latex.codecogs.com/gif.latex?F_n%20%3D%20F_%7Bn-1%7D%20&plus;%20F_%7Bn-2%7D)
