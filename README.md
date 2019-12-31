@@ -120,4 +120,4 @@ Inline text.<sup id="a1">[1](#f1)</sup>
 
 Inline text [[1]](#Footnotes).
 
-**[1]** Footnote content here. 
+[1] Footnote content here. 
