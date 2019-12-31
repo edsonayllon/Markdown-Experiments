@@ -102,6 +102,22 @@ See https://github.com/badges/shields.
 
 ## Footnotes
 
+```
+## Footnotes
+
 Inline text.<sup id="a1">[1](#f1)</sup>
 
 [<b id="f1">1.</b>](#a1) Footnote content here. 
+
+Inline text [[1]](#Footnotes).
+
+**[1]** Footnote content here. 
+```
+
+Inline text.<sup id="a1">[1](#f1)</sup>
+
+[<b id="f1">1.</b>](#a1) Footnote content here. 
+
+Inline text [[1]](#Footnotes).
+
+**[1]** Footnote content here. 
