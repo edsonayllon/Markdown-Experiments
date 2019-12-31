@@ -2,7 +2,6 @@
 title: Markdown Experiments
 authors: 
 - Edson Ayllon
-category: Formatting
 ---
 
 # Markdown-Experiments
@@ -18,7 +17,6 @@ YAML-formatted metadata goes at the beginning of a document. Converts to a horiz
 title: Markdown Experiments
 authors: 
 - Edson Ayllon
-category: Formatting
 ---
 ```
 
