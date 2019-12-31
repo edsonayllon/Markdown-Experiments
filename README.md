@@ -17,7 +17,7 @@ Testing different forms of stylings in Github markdown files
 
 Workaround for now. 
 
-```
+```markdown
 ![cat][id]
 <p align="center">
   <b>Figure 1.</b> A cat
@@ -56,4 +56,18 @@ Workaround for now.
 [//]: # (Unused link reference as a comment)
 
 
+## Collapsible sections
+
+```html
+<details>
+<summary>"Click text to expand"</summary>
+Hidden details
+</details>
+```
+
+
+<details>
+<summary>"Click text to expand"</summary>
+Hidden details
+</details>
   
