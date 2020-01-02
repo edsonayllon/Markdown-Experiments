@@ -124,7 +124,7 @@ Inline text [[1]](#Footnotes).
 
 ## Latex Equations
 
-See [Online LaTeX Equation Editor](https://www.codecogs.com/latex/eqneditor.php).
+See [Online LaTeX Equation Editor](https://www.codecogs.com/latex/eqneditor.php) or [Quick Latex](https://www.quicklatex.com/).
 
 ```
 ![equation](https://latex.codecogs.com/gif.latex?F_n%20%3D%20F_%7Bn-1%7D%20&plus;%20F_%7Bn-2%7D)
