@@ -1,8 +1,14 @@
 ---
-title: Markdown Experiments
-authors: 
-- Edson Ayllon
+author: Edson Ayllon
+category: research
+tags: 
+- Markdown
+- Documentation
+status: complete and ongoing
+twitter: https://twitter.com/relativeread
 ---
+
+## Research 7-2019
 
 # Markdown-Experiments
 
@@ -134,4 +140,4 @@ See [Online LaTeX Equation Editor](https://www.codecogs.com/latex/eqneditor.php)
 
 ## Multi-tag lists
 
-**`video`**  [**`timestamp`**]()
+**`video`**  [`timestamp`]()
