@@ -20,9 +20,13 @@ YAML-formatted metadata goes at the beginning of a document. Converts to a horiz
 
 ```
 ---
-title: Markdown Experiments
-authors: 
-- Edson Ayllon
+author: Edson Ayllon
+category: research
+tags: 
+- Markdown
+- Documentation
+status: complete and ongoing
+twitter: https://twitter.com/relativeread
 ---
 ```
 
